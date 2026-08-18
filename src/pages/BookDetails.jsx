@@ -38,3 +38,5 @@ function BookDetails() {
 }
 
 export default BookDetails;
+
+// Display detailed information about a selected book
