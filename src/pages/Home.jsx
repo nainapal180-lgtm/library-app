@@ -51,3 +51,5 @@ function Home() {
 }
 
 export default Home;
+
+// Home page of the BookVerse Library
