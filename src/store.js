@@ -18,3 +18,6 @@ export const store = configureStore({
     books: booksSlice.reducer,
   },
 });
+
+
+// Redux store for managing library books
