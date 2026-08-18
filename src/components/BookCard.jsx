@@ -20,3 +20,5 @@ function BookCard({ book }) {
 }
 
 export default BookCard;
+
+// Reusable card component for displaying book information
