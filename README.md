@@ -31,3 +31,5 @@ An online library application built using React and Vite.
 
 ```bash
 npm install
+
+Library App created using React, Redux and React Router.
