@@ -48,3 +48,5 @@ function BrowseBooks() {
 }
 
 export default BrowseBooks;
+
+// Browse and search books by category
